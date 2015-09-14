@@ -1,3 +1,9 @@
+## Optimizations implemented by [@matheusdarosa](https://github.com/matheusdarosa/) as part of [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+
+Both mobile and desktop pages have grades **higher than 90 on PageSpeed Insights**.
+
+***
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
